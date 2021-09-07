@@ -212,8 +212,9 @@ form .name-details .field:last-child{
     font-size: 12px;
 }
 /* .offline class is a php classs */
-.users-list a .status-dot.offline{
+.users-list a .status-dotoffline{
     color: #ccc;
+    font-size: 12px;
 }
 
 /* chat area CSS code*/
